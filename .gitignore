@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+yolov3/
+yolov5/
+Scripts/
+Lib/
+pyvenv.cfg
+share/
